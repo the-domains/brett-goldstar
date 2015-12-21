@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brett Goldstar]]></title>
+        <description><![CDATA[Brett Goldstar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 16:58:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Brett Goldstar self-trained as a mural artist during the first wave of 
+acid house parties in the late 1980's. Working for some of the largest 
+event organisers in the north of Britain at the time, Goldstar's unique 
+artworks were seen by tens of thousands. After the thrust of free 
+parties finally subsided Goldstar turned his skills to graphics, working
+ freelance in London until moving to the South West of England, to 
+pursue his artistic interests which had moved away from stenciling and 
+towards experimentation with painting, sculpture and more recently, 
+digital art. His latest series brings images together that appear to 
+contradict or oppose in the first instance, his work ultimately points 
+at a stream of darker connections, questions and similarities.</p></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">46e9f61f-af4d-4968-8eda-50a46fc0c114</guid>
+            <pubDate>Mon, 21 Dec 2015 16:55:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
