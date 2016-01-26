@@ -21,7 +21,7 @@ color:
     - '#fefefe'
     - '#030302'
     - '#f33221'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
