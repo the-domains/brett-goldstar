@@ -1,6 +1,6 @@
 name: Brett Goldstar
 favicon: null
-layout_spectrum: 0.25366
+layout_spectrum: 0.74152
 typography_spectrum: 0.48263
 title: Brett Goldstar
 cta:
@@ -22,7 +22,7 @@ color:
     - '#171312'
     - '#868686'
     - '#f94f41'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
