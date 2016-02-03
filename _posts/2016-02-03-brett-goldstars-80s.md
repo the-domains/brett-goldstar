@@ -5,25 +5,22 @@ author:
     avatar: {}
 related: []
 publisher:
-  name: YouTube
-  domain: www.youtube.com
   url: 'https://www.youtube.com/'
+  name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
+  domain: www.youtube.com
 keywords: []
 description: "The artist's memories of the decade in pictorial format."
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=w1pGNgkbk6A'
 title: "Brett Goldstar's 80s"
-datePublished: '2016-02-03T17:49:10.846Z'
-dateModified: '2016-02-03T17:48:18.025Z'
+datePublished: '2016-02-03T18:14:35.365Z'
+dateModified: '2016-02-03T18:13:36.624Z'
+sourcePath: _posts/2016-02-03-brett-goldstars-80s.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-inLanguage: null
-starred: true
-authors: []
-sourcePath: _posts/2016-02-03-brett-goldstars-80s.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
